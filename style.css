@@ -1,0 +1,22 @@
+body {
+    background-color: black; /*done*/
+}
+h1 {
+    font-family: "Libre Baskerville", serif; /*done*/
+    text-transform: uppercase; /*done*/
+    font-size: 1rem; /*done*/
+}
+img {
+    border: 5px, solid, white; /*done*/
+    width:50%;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /*done*/
+}
+div {
+    width: 50%; /*done*/
+    margin-left: 25%; /*done*/
+    margin-top: 200px; /*done*/
+    text-align: center; /*done*/
+    color: white; /*done*/
+}
